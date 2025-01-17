@@ -1,0 +1,5 @@
+[project]
+name = "sugar"
+version = "0.1.0"
+description = "Persistent memory for AI coding agents. Local-first, cross-session context, global knowledge, and optional autonomous task execution."
+requires-python = ">=3.10"
